@@ -12,7 +12,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 
-namespace MVCmovie
+namespace MvcMovie
 {
     public class Startup
     {
